@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainSceneTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainSceneTable
+  m_TableCollectionNameGuidString: 8031ae023b8c6a5428e4da6bdf1cef12
+  m_Entries:
+  - m_Id: 11519861903360
+    m_Key: InputCoordText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13908501254144
+    m_Key: LatitudeInputField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14138810486784
+    m_Key: LongitudeInputField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15621975101440
+    m_Key: LangSettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16096917114880
+    m_Key: PrefabNameInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16272482291712
+    m_Key: PrefabLatitudeInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16400559558656
+    m_Key: PrefabLonditudeInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 402407243042816
+    m_Key: SavedLocText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403243755032576
+    m_Key: SettingsText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5272798768990781464
+  references:
+    version: 2
+    RefIds:
+    - rid: 5272798768990781464
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1719395878627

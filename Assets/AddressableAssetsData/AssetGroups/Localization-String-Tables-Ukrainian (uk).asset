@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Ukrainian (uk)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Ukrainian (uk)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f800002ecc5697449ad7694be5a6f744
+  m_SerializeEntries:
+  - m_GUID: 57cbd3d0a52b5724b9ea2fb252e2d35e
+    m_Address: MainSceneTable_uk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    - Preload
+  - m_GUID: 14a8a205f025f2c42bce8aa180988f12
+    m_Address: SampleSceneTable_uk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-uk
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: cfa524ee9c539ee44ae7979837959aa9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8be3870fb22c4034b8dd977bb1ce6c76, type: 2}
+    - {fileID: 11400000, guid: 4948c1e96d322384ba12419fc42b06e9, type: 2}
